@@ -1,0 +1,16 @@
+[
+    {
+        "nim": 12312,
+        "nama": "Liz",
+        "password": "ive",
+        "angkatan": 2020,
+        "prodiId": 1
+    },
+    {
+        "nim": 33212,
+        "nama": "Wonyoung",
+        "password": "jesko",
+        "angkatan": 2020,
+        "prodiId": 1
+    }
+]
